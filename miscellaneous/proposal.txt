@@ -1,0 +1,34 @@
+# What is the title of your session?
+Deployment as a Service: Continuous Deployment Using Cloud Based Infrastructure
+
+# Who else will be presenting/facilitating this session?
+Pete Hodgson
+
+# What is the format of this session?
+Presentation
+
+# How much time will the session take?
+30 minutes
+
+# Please provide an abstract or summary of your session.
+The plan is to present an experiment in continuous deployment right through to production using only cloud based infrastructure and services (existing and custom) for CI, provisioning, deployment, artifact hosting and application hosting. A prototype is already underway which will hopefully be a bit more polished by the time away day rolls around.
+
+Every single commit will go to production on a successful pipeline execution so this is true continuous deployment rather than just single click deployment. There may even be some live committing taking place during the presentation.
+
+If there's time, some of the challenges of true continuous deployment will also be discussed.
+
+# What category best encompasses your session? 
+Technical
+
+# What type of audience is your session designed for?
+Aimed at developers, devops people or testers who are interested in cloud based deployment and infrastructure as code. Also open to anybody interested in continuous delivery and continuous deployment. 
+
+# Have you presented or ran this session before? If so, where? 
+No but it is being proposed for DevOpsDays Mountain View 2013 happening two weeks after 
+away day so it would be great to rehearse it in front of TWers first.
+
+# What materials, setup, etc are required for your session?
+A projector with a MacBook Pro mini DVI adapter should be the only thing needed.
+
+# Anything else we should know?
+No
