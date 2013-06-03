@@ -21,3 +21,13 @@
     background-repeat: no-repeat;
     background-size: 20%, 15%, 7%, 7%;
 }
+
+.slides.template-2013naad article ul.condensed {
+    font-size: 26px;
+    line-height: 1em;
+}
+
+.slides.template-2013naad article ul ul {
+    font-size: 20px;
+    line-height: 25px
+}
