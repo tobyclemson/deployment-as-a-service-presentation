@@ -39,6 +39,38 @@
     display: block;
 }
 
+.slides.template-2013naad article img.logo {
+    max-width: 28%; 
+    height: 60px; 
+    padding-top: 20px;
+    padding-bottom: 10px;
+    float: left; 
+    margin: 0;
+    margin-right: 60px;
+}
+
+.slides.template-2013naad article img.smaller-logo {
+    max-width: 20%; 
+    height: 40px; 
+    padding-top: 20px;
+    padding-bottom: 10px;
+    float: left; 
+    margin: 0;
+    margin-right: 30px;
+}
+
+.slides.template-2013naad article img#self-hosted-vcs-logo {
+    height: 99px; 
+    padding-bottom: 0; 
+    padding-top: 10px;
+}
+
+.slides.template-2013naad article img#ant-logo {
+    height: 99px; 
+    padding-bottom: 0; 
+    padding-top: 10px;
+}
+
 .slides.template-2013naad article img.full-slide-image {
     max-width: 80%;
     max-height: 80%;
@@ -55,3 +87,14 @@
     max-height: 98%;
 }
 
+.slides.template-2013naad article.medium ul {
+  font-size: 28px;
+  line-height: 28px;
+  letter-spacing: 0;
+}
+
+.slides.template-2013naad article.medium ul ul {
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: 0;
+}
