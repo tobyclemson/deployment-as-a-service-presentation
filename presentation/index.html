@@ -94,6 +94,19 @@
           <img class='logo' src='images/selfhosted-vcs-logo.png' id='self-hosted-vcs-logo'
                alt='Self Hosted VCS Logo' />
         </div>
+        <div>
+          <h4>Things to consider</h4>
+          <ul class="build">
+            <li>
+              Paranoia/compliance issue around hosting code offsite
+            </li>
+            <li>
+              Cost (TCO)
+            </li>
+            <li>
+              Feature set (e.g. code review, integration into ALM)
+            </li>
+        </div>
       </article>
 
       <article>
@@ -112,6 +125,7 @@
           <img class='smaller-logo' src='images/bash-logo.png'
                alt='Bash Logo'>
         </div>
+        <p class="todo">Not sure what to talk about here</p>
       </article>
 
       <article>
@@ -127,6 +141,25 @@
                alt='Jenkins Logo' />
           <img class='logo ci-server-logo' src='images/travis-logo.png' 
                alt='Travis Logo' />
+        </div>
+        <div>
+          <h4>Things to consider</h4>
+          <ul class="build">
+            <li>
+              Support for private repos
+            </li>
+            <li>
+              Triggers
+            </li>
+            <li>
+              Cost (TCO)
+            </li>
+            <li>
+              Platform support (e.g. iOS builds)
+            </li>
+            <li>
+              Pipeline support
+            </li>
         </div>
       </article>
 
@@ -144,6 +177,25 @@
           <img class='logo packaging-tool-logo' src='images/redhat-logo.jpg'
                alt='Redhat Logo' />
         </div>
+        <div>
+          <p class="todo">WARs? JARs? EARs? AMIs?</p>
+        </div>
+        <div>
+          <h4>Things to consider</h4>
+          <ul class="build">
+            <li>
+              Your platform <span class="note">e.g. don't deploy debs to windows</span>
+            </li>
+            <li>
+              pre/postinstall scripts
+            </li>
+            <li>
+              versioning
+            </li>
+            <li>
+              Support for upgrading vs. an immutable approach
+            </li>
+        </div>
       </article>
 
       <article>
@@ -158,10 +210,102 @@
           <img class='logo artifact-storage-logo' src='images/aws-logo.png' 
                alt='AWS S3 Logo' />
         </div>
+        <div>
+          <h4>Things to consider</h4>
+          <ul class="build">
+            <li>
+              The rest of your tooling <span class="note">e.g. jars => artifact repos, zips => S3</span>
+            </li>
+            <li>
+              versioning
+            </li>
+            <li>
+              security/compliance issues <span class="note">e.g. access from prod, storing code externally</span>
+            </li>
+        </div>
       </article>
 
       <article>
         <h3>RosettaJVM: Artifact Storage</h3>
+      </article>
+
+      <article>
+        <h3>A Commit's Journey to Production: <br />Compute Service</h3>
+        <div class="logo-box">
+          <img class='logo' src='images/rackspace-cloud-servers-logo.png'
+               alt='Rackspace Cloud' />
+          <img class='logo' src='images/aws-logo.png' 
+               alt='AWS Logo' />
+          <img class='logo' src='images/google-compute-engine-logo.png' 
+               alt='Google Compute Engine Logo' />
+        </div>
+        <div>
+          <h4>Things to consider</h4>
+          <ul class="build">
+            <li>
+              Internal or External Cloud?
+            </li>
+            <li>
+              What do you need beyond compute? <span class="note">e.g. load balancing, DNS, storage, monitoring, scaling...</span>
+            </li>
+            <li>
+              Automation API
+            </li>
+            <li>
+              Performance
+            </li>
+            <li>
+              Reliability
+            </li>
+        </div>
+      </article>
+
+      <article>
+        <h3>RosettaJVM: Compute Service</h3>
+      </article>
+      
+      <article>
+        <h3>A Commit's Journey to Production: <br />Provisioning/Deployment</h3>
+        <div class="logo-box">
+          <img class='logo' src='images/chef-logo.png'
+               alt='Chef logo' />
+          <img class='logo' src='images/puppet-logo.png' 
+               alt='Puppet Logo' />
+          <img class='logo' src='images/pallet-logo.jpeg' 
+               alt='Pallet Logo' />
+        </div>
+        <div>
+          <h4>Things to consider</h4>
+          <ul class="build">
+            <li>
+              Dry-run report
+            </li>
+            <li>
+              Off-the-shelf modules for common dependencies
+            </li>
+            <li>
+              Server-Agent model vs. Standalone
+            </li>
+            <li>
+              Beware the alien artifact
+            </li>
+        </div>
+      </article>
+
+      <article>
+        <h3>RosettaJVM: Provisioning/Deployment</h3>
+      </article>
+      
+      <article>
+        <h3>A Commit's Journey to Production: <br />Monitoring</h3>
+        <div class="logo-box">
+        </div>
+        <div>
+          <h4>Things to consider</h4>
+          <ul class="build">
+            <li>
+            </li>
+        </div>
       </article>
 
     </section>

@@ -6,8 +6,8 @@
 	<integer>1</integer>
 	<key>ApplicationVersion</key>
 	<array>
-		<string>com.omnigroup.OmniGrafflePro</string>
-		<string>139.17.0.185490</string>
+		<string>com.omnigroup.OmniGraffle</string>
+		<string>139.7.0.167456</string>
 	</array>
 	<key>AutoAdjust</key>
 	<false/>
@@ -117,7 +117,7 @@
 				<string>{69.499999931711187, 251.75000001766702}</string>
 				<string>{124.25, 251.74999999999997}</string>
 				<string>{162.00000008166836, 251.75}</string>
-				<string>{161.9409938429211, 251.74340616428458}</string>
+				<string>{161.94099382854188, 251.7434061626777}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -230,8 +230,8 @@
 			<integer>0</integer>
 			<key>Points</key>
 			<array>
-				<string>{161.9409938429211, 251.74340616428458}</string>
-				<string>{161.9409938429211, 251.74340616428458}</string>
+				<string>{161.94099382854188, 251.7434061626777}</string>
+				<string>{161.94099382854188, 251.7434061626777}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -495,7 +495,7 @@
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
 {\fonttbl\f0\fnil\fcharset0 OpenSans-Semibold;}
-{\colortbl;\red255\green255\blue255;\red86\green149\blue140;}
+{\colortbl;\red255\green255\blue255;\red98\green146\blue140;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\b\fs48 \cf2 Publish}</string>
@@ -606,7 +606,7 @@
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
 {\fonttbl\f0\fnil\fcharset0 OpenSans-Semibold;}
-{\colortbl;\red255\green255\blue255;\red71\green132\blue132;}
+{\colortbl;\red255\green255\blue255;\red83\green130\blue131;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\b\fs48 \cf2 Provision}</string>
@@ -717,7 +717,7 @@
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
 {\fonttbl\f0\fnil\fcharset0 OpenSans-Semibold;}
-{\colortbl;\red255\green255\blue255;\red60\green131\blue150;}
+{\colortbl;\red255\green255\blue255;\red74\green129\blue146;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\b\fs48 \cf2 Deploy}</string>
@@ -922,7 +922,7 @@
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
 {\fonttbl\f0\fnil\fcharset0 OpenSans-Semibold;}
-{\colortbl;\red255\green255\blue255;\red126\green161\blue64;}
+{\colortbl;\red255\green255\blue255;\red131\green155\blue81;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\b\fs48 \cf2 Commit}</string>
@@ -1033,7 +1033,7 @@
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
 {\fonttbl\f0\fnil\fcharset0 OpenSans-Semibold;}
-{\colortbl;\red255\green255\blue255;\red125\green162\blue97;}
+{\colortbl;\red255\green255\blue255;\red130\green157\blue106;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\b\fs48 \cf2 Build}</string>
@@ -1144,7 +1144,7 @@
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
 {\fonttbl\f0\fnil\fcharset0 OpenSans-Semibold;}
-{\colortbl;\red255\green255\blue255;\red119\green160\blue103;}
+{\colortbl;\red255\green255\blue255;\red125\green155\blue111;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\b\fs48 \cf2 Test}</string>
@@ -1382,7 +1382,7 @@
 				<key>Text</key>
 				<string>{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf510
 {\fonttbl\f0\fnil\fcharset0 OpenSans-Semibold;}
-{\colortbl;\red255\green255\blue255;\red121\green171\blue121;}
+{\colortbl;\red255\green255\blue255;\red129\green166\blue127;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc
 
 \f0\b\fs48 \cf2 Package}</string>
@@ -1454,7 +1454,7 @@
 				<string>{80.527730831701348, 245.33333334757609}</string>
 				<string>{124.66726531485139, 245.33333333333306}</string>
 				<string>{155.10137359367164, 245.33333333333306}</string>
-				<string>{155.03243886544843, 245.32562999783912}</string>
+				<string>{155.03243887602511, 245.32562999902103}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1567,8 +1567,8 @@
 			<integer>1</integer>
 			<key>Points</key>
 			<array>
-				<string>{155.03243886544843, 245.32562999783912}</string>
-				<string>{155.03243886544843, 245.32562999783912}</string>
+				<string>{155.03243887602511, 245.32562999902103}</string>
+				<string>{155.03243887602511, 245.32562999902103}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1793,7 +1793,7 @@
 				<string>{80.527730831701348, 245.33333334757609}</string>
 				<string>{124.66726531485139, 245.33333333333306}</string>
 				<string>{155.10137359367164, 245.33333333333306}</string>
-				<string>{155.03243886544843, 245.32562999783912}</string>
+				<string>{155.03243887602511, 245.32562999902103}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1906,8 +1906,8 @@
 			<integer>2</integer>
 			<key>Points</key>
 			<array>
-				<string>{155.03243886544843, 245.32562999783912}</string>
-				<string>{155.03243886544843, 245.32562999783912}</string>
+				<string>{155.03243887602511, 245.32562999902103}</string>
+				<string>{155.03243887602511, 245.32562999902103}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -2102,7 +2102,7 @@
 			<key>Print</key>
 			<string>YES</string>
 			<key>View</key>
-			<string>NO</string>
+			<string>YES</string>
 		</dict>
 		<dict>
 			<key>Lock</key>
@@ -2112,7 +2112,7 @@
 			<key>Print</key>
 			<string>YES</string>
 			<key>View</key>
-			<string>YES</string>
+			<string>NO</string>
 		</dict>
 		<dict>
 			<key>Lock</key>
@@ -2122,7 +2122,7 @@
 			<key>Print</key>
 			<string>YES</string>
 			<key>View</key>
-			<string>YES</string>
+			<string>NO</string>
 		</dict>
 	</array>
 	<key>LayoutInfo</key>
@@ -2147,9 +2147,9 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-06-07 08:23:15 +0000</string>
+	<string>2013-06-08 03:08:56 +0000</string>
 	<key>Modifier</key>
-	<string>Toby Clemson</string>
+	<string>Pete Hodgson</string>
 	<key>NotesVisible</key>
 	<string>NO</string>
 	<key>Orientation</key>
@@ -2178,7 +2178,7 @@
 		<key>NSPaperSize</key>
 		<array>
 			<string>size</string>
-			<string>{612.00002479553223, 792}</string>
+			<string>{612, 792}</string>
 		</array>
 		<key>NSPrintReverseOrientation</key>
 		<array>
@@ -2228,7 +2228,7 @@
 			</dict>
 		</array>
 		<key>Frame</key>
-		<string>{{-0, 4}, {1195, 874}}</string>
+		<string>{{102, 4}, {1195, 742}}</string>
 		<key>ListView</key>
 		<true/>
 		<key>OutlineWidth</key>
@@ -2240,7 +2240,7 @@
 		<key>SidebarWidth</key>
 		<integer>207</integer>
 		<key>VisibleRegion</key>
-		<string>{{-16, -39}, {932, 780}}</string>
+		<string>{{-16, 8}, {932, 648}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>
