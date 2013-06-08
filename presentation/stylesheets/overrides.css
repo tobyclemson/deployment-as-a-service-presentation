@@ -39,6 +39,12 @@
     display: block;
 }
 
+.slides.template-2013naad article .logo-box {
+    margin-top: 10px;
+    width: 100%;
+    display: inline-block;
+}
+
 .slides.template-2013naad article img.logo {
     max-width: 28%; 
     height: 60px; 
@@ -115,3 +121,15 @@
   line-height: 25px;
   letter-spacing: 0;
 }
+
+.slides.template-2013naad .todo {
+  color: yellow;
+  background:red;
+}
+
+.slides.template-2013naad .note {
+  font-size: 20px;
+  color: gray;
+}
+
+
