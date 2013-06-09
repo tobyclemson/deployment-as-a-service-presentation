@@ -47,7 +47,7 @@
             <li>Provisioning and Deployment Scripts</li>
           </ul>
           <li>Deployment as a Service</li>
-          <li>Future Plans</li>
+          <li>Future Plans and Ideas</li>
           <li>Conclusions</li>
         </ul>
       </article>
@@ -116,6 +116,8 @@
 
       <article>
         <h3>RosettaJVM: Version Control</h3>
+        <img class='greedy-slide-image' src='images/rosetta-1.png'
+             alt='Rosetta deployment pipeline: version control' />
       </article>
 
       <article>
@@ -148,6 +150,8 @@
 
       <article>
         <h3>RosettaJVM: Build Tool</h3>
+        <img class='greedy-slide-image' src='images/rosetta-2.png'
+             alt='Rosetta deployment pipeline: build tool' />
       </article>
 
       <article>
@@ -190,6 +194,8 @@
 
       <article>
         <h3>RosettaJVM: CI Server</h3>
+        <img class='greedy-slide-image' src='images/rosetta-3.png'
+             alt='Rosetta deployment pipeline: CI server' />
       </article>
 
       <article>
@@ -217,10 +223,10 @@
               Your platform <span class="note">e.g. don't deploy debs to windows</span>
             </li>
             <li>
-              pre/postinstall scripts
+              Pre/postinstall scripts
             </li>
             <li>
-              versioning
+              Versioning
             </li>
             <li>
               Support for upgrading vs. an immutable approach
@@ -230,6 +236,8 @@
 
       <article>
         <h3>RosettaJVM: Packaging Tool</h3>
+        <img class='greedy-slide-image' src='images/rosetta-4.png'
+             alt='Rosetta deployment pipeline: packaging tool' />
       </article>
 
       <article>
@@ -263,6 +271,8 @@
 
       <article>
         <h3>RosettaJVM: Artifact Storage</h3>
+        <img class='greedy-slide-image' src='images/rosetta-5.png'
+             alt='Rosetta deployment pipeline: artifact storage' />
       </article>
 
       <article>
@@ -270,7 +280,6 @@
         <img class='deployment-progress-image greedy-slide-image' src='images/deployment-pipeline-6.1.png'
              alt='Diagram of typical tools used in a deployment pipeline 6.1'/>
       </article>
-
 
       <article>
         <h3>A Commit's Journey to Production: <br />Compute Service</h3>
@@ -305,6 +314,8 @@
 
       <article>
         <h3>RosettaJVM: Compute Service</h3>
+        <img class='greedy-slide-image' src='images/rosetta-6.png'
+             alt='Rosetta deployment pipeline: compute service' />
       </article>
 
       <article>
@@ -343,6 +354,8 @@
 
       <article>
         <h3>RosettaJVM: Provisioning/Deployment</h3>
+        <img class='greedy-slide-image' src='images/rosetta-7.png'
+             alt='Rosetta deployment pipeline: provisioning/deployment' />
       </article>
       
       <article>
@@ -355,6 +368,36 @@
         <h3>A Commit's Journey to Production: <br/>Done!</h3>
         <img class='greedy-slide-image' src='images/pipeline.png'
              alt='Diagram of phases in a deployment pipeline'/>
+      </article>
+
+      <article>
+        <h3>Deployment as a Service</h3>
+        <ul class='build'>
+          <li>An experiment</li>
+          <li>Advantages:</li>
+          <ul>
+            <li>Changing version or scaling nodes is just a POST request</li>
+            <li>Deployment data as an API</li>
+            <li>Chaos monkey scenario</li>
+          </ul>
+          <li>Disadvantages:</li>
+          <ul>
+            <li>Log information not in build tool</li>
+            <li>Extra piece of infrastructure</li>
+          </ul>
+        </ul>
+      </article>
+
+      <article>
+        <h3>Future Plans and Ideas</h3>
+        <ul class='build'>
+          <li>True pipeline using git marker branches</li>
+          <li>Configuration management external to deployer</li>
+          <li>Blue-green deployment</li>
+          <li>Deployment status</li>
+          <li>Environment aggregator micro-service</li>
+          <li>Prebuilt AMIs</li>
+        </ul>
       </article>
 
       <article>
