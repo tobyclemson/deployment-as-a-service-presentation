@@ -112,6 +112,10 @@
     max-height: 98%;
 }
 
+.slides.template-2013naad article img.deployment-progress-image {
+    margin-top: 0px;
+}
+
 .slides.template-2013naad article.medium ul {
   font-size: 28px;
   line-height: 28px;
