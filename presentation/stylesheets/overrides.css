@@ -42,6 +42,8 @@
 .slides.template-2013naad article .logo-box {
     margin-top: 10px;
     width: 100%;
+    margin-left: auto;
+    margin-right: auto;
     display: inline-block;
 }
 
