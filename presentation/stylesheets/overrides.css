@@ -80,8 +80,8 @@
 }
 
 .slides.template-2013naad article img.artifact-storage-logo {
-    margin-left: 110px;
-    margin-right: 110px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 .slides.template-2013naad article img#self-hosted-vcs-logo {
@@ -95,6 +95,7 @@
     padding-bottom: 0; 
     padding-top: 0px;
 }
+
 
 .slides.template-2013naad article img.full-slide-image {
     max-width: 80%;
